@@ -1,5 +1,11 @@
 
-#  🙋 Hello
+#### 很高兴见到你 😉
+
+我是 菜猫子neko，欢迎来到我的 Github 主页
+
+|  :globe_with_meridians: Web Developer    |    :curry: 准点干饭人   |    :camera: 业余 up   |   :video_game: 游戏爱好者   |  :bow:🏻 健身菜鸟    |
+| ---- | ---- | ---- | ---- | ---- |
+
 
 <div align="center">
 <!-- 个人资料徽标 -->
@@ -37,6 +43,3 @@
 ![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
 ![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
 
-### 最近文章
-[![](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin?id=2885585707211437&limit=4)](https://juejin.cn/user/2885585707211437/posts) | 
----|
