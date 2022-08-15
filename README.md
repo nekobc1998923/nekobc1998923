@@ -36,3 +36,7 @@
 ![Python](https://img.shields.io/badge/-Python-blueviolet?style=flat-square&logo=Python)
 ![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
 ![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
+
+### 最近文章
+[![](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin?id=2885585707211437&limit=4)](https://juejin.cn/user/2885585707211437/posts) | 
+---|
